@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BearBrown.iml" filepath="$PROJECT_DIR$/BearBrown.iml" />
+      <module fileurl="file://D:\thirdsource\verifycode\VerifyCodeEditText\BearBrown.iml" filepath="D:\thirdsource\verifycode\VerifyCodeEditText\BearBrown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerifyCodeEditTextProject.iml" filepath="$PROJECT_DIR$/VerifyCodeEditTextProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verifycodeedittext/verifycodeedittext2.iml" filepath="$PROJECT_DIR$/verifycodeedittext/verifycodeedittext2.iml" />
     </modules>
   </component>
 </project>

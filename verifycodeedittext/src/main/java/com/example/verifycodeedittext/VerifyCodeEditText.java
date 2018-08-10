@@ -1,5 +1,4 @@
-package com.example.zhangchao.bearbrown;
-
+package com.example.verifycodeedittext;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -19,6 +18,7 @@ import java.lang.reflect.Field;
 
 import static android.text.InputType.TYPE_CLASS_NUMBER;
 
+@SuppressWarnings({"unused", "FieldCanBeLocal"})
 public class VerifyCodeEditText extends AppCompatEditText {
 
     private static final int DEFAULT_CODE_NUMBER = 5;
